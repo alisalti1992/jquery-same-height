@@ -4,7 +4,7 @@ jQuery function can be used to make selected elements the same height.
 
 
 ```javascript
-jQuery(doucment).ready(function ($) {
+jQuery(document).ready(function ($) {
     $(window).load(function () {
         mam_set_auto_height();
     });
